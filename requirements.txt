@@ -13,3 +13,4 @@ numpy>=1.14.6
 scipy>=1.1.0
 selenium==3.11.0
 fake-useragent==0.1.11
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
